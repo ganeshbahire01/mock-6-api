@@ -23,6 +23,29 @@
       "category": "Shopping",
       "amount": 100,
       "date": "2023"
+    },
+    {
+      "id": 3,
+      "email": "abc@gmail.com",
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 2500,
+      "date": "2023"
+    }, {
+      "id": 4,
+      "email": "abc@gmail.com",
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 500,
+      "date": "2023"
+    },
+    {
+      "id": 5,
+      "email": "abc@gmail.com",
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 1000,
+      "date": "2023"
     }
   ]
 }
