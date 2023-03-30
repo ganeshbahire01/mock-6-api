@@ -10,7 +10,7 @@
   "data": [
     {
       "id": 1,
-      "username": "abc",
+      "email": "abc@gmail.com",
       "type": "Income",
       "category": "Salary",
       "amount": 100,
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "username": "abc",
+      "email": "abc@gmail.com",
       "type": "Expense",
       "category": "Shopping",
       "amount": 100,
